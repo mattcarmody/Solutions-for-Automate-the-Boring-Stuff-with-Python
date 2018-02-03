@@ -6,7 +6,7 @@ Automate the Boring Stuff with Python by Al Sweigert is a popular starting point
 ### Why Create This Page
 When I was working through the book's exercises I would occasionally get stumped beyond frustration. I had exhausted my Google stamina. I needed some inspiration for the specific problem at hand. I found plenty of repos with solutions to a handful of problems, many of which didn't address the tough part of the project! At a point when I was already drained of searching, I had to do yet more searching. I'd rather you channeled more of your energy into the projects themselves, not picking through GitHub repos, so I'm putting this compilation together. I hope it helps.
 ### Solutions
-* [lotspaih](https://github.com/lotspaih/automateBoringstuffPython) (complete)
+* [lotspaih](https://github.com/lotspaih/automateBoringstuffPython) (complete) [![GitHub stars](https://img.shields.io/github/stars/lotspaih/automateBoringstuffPython.svg)](https://github.com/lotspaih/automateBoringstuffPython/stargazers)
 * [mattcarmody](https://github.com/mattcarmody/Automate-the-Boring-Stuff-with-Python-Practice-Projects) (up to chap 17 as of 2018/02/03)
 * [JasonMDev](https://github.com/JasonMDev/automate-boring-stuff) (up to chap 15 as of 2018/02/03)
 * [swchoi0102](https://github.com/swchoi0102/automate-the-boring-stuff) (up to chap 13 as of 2018/02/03)
